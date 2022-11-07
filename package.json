@@ -28,7 +28,7 @@
     "node": ">=16.0.0"
   },
   "dependencies": {
-    "@actions/core": "^1.9",
+    "@actions/core": "^1.10.0",
     "docker-image-artifact": "ishworkh/docker-image-artifact.git#semver:^1.2"
   },
   "devDependencies": {
